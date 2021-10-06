@@ -14,13 +14,11 @@
 ![Login](https://imgur.com/a/NBGnIS9.png)
 
 <p align="center">
-  <img src="https://imgur.com/j0T7Pah.png" style="width:104px;height:142px; title="hover text">
-  <img src="https://imgur.com/j0T7Pah9.png" style="width:104px;height:142px; alt="Register">
-  <img src="https://i.imgur.com/GGfYD3E.jpeg" style="width:104px;height:142px; alt="HomePage">
+  <img src="https://imgur.com/j0T7Pah.png" style="width:104px;height:142px; title="hover text" alt="Register">
+  <img src="https://imgur.com/8pvX4UB.png" style="width:104px;height:142px; alt="Login">
+  <img src="https://imgur.com/GGfYD3E.png" style="width:104px;height:142px; alt="HomePage">
 </p>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/NBGnIS9"  >
-  <a href="//imgur.com/a/NBGnIS9.png">homepage</a></blockquote>
 
 
 
