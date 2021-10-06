@@ -1,7 +1,5 @@
 # Gloify
 
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,10 +8,10 @@
     <h1>Screen shots</h1>
     <hr >
     <p align="center">
-    <p>Sign in Screen</p>
+    <p>Register Screen</p>
     <img src="https://imgur.com/j0T7Pah.png" style="width:50%;height:50%; title="hover text" alt="Register" >
      <hr>  
-    <p>Register Screen</p>                                                                                                           
+    <p> Sign in Screen</p>                                                                                                           
     <img src="https://imgur.com/8pvX4UB.png" style="width:50%;height:50%; alt="Login" >
     <hr>  
       <p>Homepage Screen</p>    
