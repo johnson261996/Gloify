@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/Dashboard" >
+
+        </item>
+        <item
+            android:id="@+id/product"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/Product" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_product"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_products"></item>
+                    <item
+                        android:id="@+id/view_brands"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_products"></item>
+                </group>
+            </menu>
+        </item>
+
+        <item
+            android:id="@+id/coupon"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/Coupons" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_coupons"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_coupons"></item>
+                    <item
+                        android:id="@+id/view_Coupons"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_coupons"></item>
+                </group>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/warehouse"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/Warehouses" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_Warehouse"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_warehouse"></item>
+                    <item
+                        android:id="@+id/view_Warehouses"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_warehouses"></item>
+
+                </group>
+            </menu>
+        </item>
+
+
+        <item
+            android:id="@+id/customer"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/Customers" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_customer"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_customer"></item>
+                    <item
+                        android:id="@+id/view_customers"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_customers"></item>
+                </group>
+            </menu>
+
+        </item>
+        <item
+            android:id="@+id/Vendors"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/vendors" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_vendor"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_customer"></item>
+                    <item
+                        android:id="@+id/view_vendors"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_vendors"></item>
+                </group>
+            </menu>
+
+        </item>
+        <item
+            android:id="@+id/Employees"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/Employees" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_employee"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_employee"></item>
+                    <item
+                        android:id="@+id/view_employee"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_employees"></item>
+                </group>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/salesorder"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/salesorder" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_saleorder"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_customer"></item>
+                    <item
+                        android:id="@+id/view_saleorder"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_sales_order"></item>
+                </group>
+            </menu>
+
+        </item>
+        <item
+            android:id="@+id/store"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/store" >
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/add_store_data"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/add_store_data"></item>
+                    <item
+                        android:id="@+id/view_store_data"
+                        android:icon="@mipmap/ic_launcher"
+                        android:title="@string/view_store_data"></item>
+                </group>
+            </menu>
+        </item>
+        <item
+            android:id="@+id/addnewstore"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/addnewstore" />
+    </group>
+
+</menu>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">InventSuite</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Product">Product</string>
+    <string name="Coupons">Coupons</string>
+    <string name="Warehouses">Warehouses</string>
+    <string name="Customers">Customers</string>
+    <string name="vendors">vendors</string>
+    <string name="Employees">Employees</string>
+    <string name="Store">Store</string>
+    <string name="Add_Store">Add Store</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="salesorder">Sales Order</string>
+    <string name="store">Store</string>
+    <string name="addnewstore">Add New Store</string>
+    <string name="add_products">Add Products</string>
+    <string name="view_products">View Products</string>
+    <string name="classification">Classification</string>
+    <string name="add_classification">Add Classification</string>
+    <string name="view_classification">View Classification</string>
+    <string name="variants">Variants</string>
+    <string name="add_Varients">Add Varients</string>
+    <string name="View_Varients">View Varients</string>
+    <string name="add_coupons">Add Coupons</string>
+    <string name="view_coupons">View Coupons</string>
+    <string name="add_warehouse">Add Warehouse</string>
+    <string name="view_warehouses">View Warehouses</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="view_customers">View Customers</string>
+    <string name="add_Vendors">Add Vendors</string>
+    <string name="view_vendors">View Vendors</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="view_employees">View Employees</string>
+    <string name="add_Sales_order">Add Sales Order</string>
+    <string name="view_sales_order">View Sales Order</string>
+    <string name="add_store_data">Add Store Data</string>
+    <string name="view_store_data">View Store Data</string>
+
+</resources>
